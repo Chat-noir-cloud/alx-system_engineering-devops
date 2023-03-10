@@ -1,3 +1,2 @@
 #!/bin/bash
-cd long 'n case 
-pwd
+cd -
