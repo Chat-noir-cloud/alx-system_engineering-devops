@@ -1,2 +1,2 @@
 #!/bin/bash
-./7-movethatfile
+cd ./7-movethatfile

@@ -1,2 +1,2 @@
 #!/bin/bash
-./5-listfilesdigitonly
+cd ./5-listfilesdigitonly
