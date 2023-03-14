@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | paste -s -d ''
+11;rgb:0000/0000/0000cut -c 1 | paste -s -d ''
